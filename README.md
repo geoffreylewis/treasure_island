@@ -10,6 +10,11 @@ Only using Python, this software will take a user's answers to some scenarios an
 
 ## Version History 
 
+**Version 0.2**  
+*4/22/2024*  
+* Changed variable names.
+* Added some if/else statements.
+
 **Version 0.1**  
 *4/22/2024*  
 * This program has just been started.
