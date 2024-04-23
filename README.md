@@ -10,6 +10,13 @@ Only using Python, this software will take a user's answers to some scenarios an
 
 ## Version History 
 
+**Version 1.0**  
+*4/23/2024*  
+* Program is functional.
+* Finished out scenarios.
+* Added artwork.
+* Added another ending.
+
 **Version 0.2**  
 *4/22/2024*  
 * Changed variable names.
@@ -27,4 +34,4 @@ Only using Python, this software will take a user's answers to some scenarios an
 
 ## Acknowledgements
 
-In my ongoing quest to refresh my Python skills and stay sharp, I'm working my way through the Udemy course "100 Days of Code: The Complete Python Pro Bootcamp".  Shout out to Dr. Angela Yu and Udemy.
+In my ongoing quest to refresh my Python skills and stay sharp, I'm working my way through the Udemy course "100 Days of Code: The Complete Python Pro Bootcamp".  Shout out to Dr. Angela Yu and Udemy.  An additional shoutout for the artwork from TomekK at https://ascii.co.uk/art/treasure.
